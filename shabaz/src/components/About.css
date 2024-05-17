@@ -1,0 +1,21 @@
+.about-container{
+    background-color: #262c3d;
+    color: white;
+    padding: 8px;
+}
+
+.center-h2{
+    text-align: center;
+}
+
+.upperPart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+    margin-top: 1.8rem;
+}
+
+.lowerPart{
+    display: flex;
+}

@@ -1,0 +1,118 @@
+.Sarima-body{
+    background-color: #262c3d;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Sarima-body button{
+  margin: 5px 5px;
+  height: 2rem;
+  width: 4rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: rgb(240, 151, 151);
+}
+
+.Sarima-body button:hover{
+    background-color: rgb(217, 114, 114);
+  }
+
+  .Hybrid-body{
+    background-color: #262c3d;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Hybrid-body button{
+    margin: 5px 5px;
+    height: 2rem;
+    width: 4rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: rgb(240, 151, 151);
+  }
+  
+  .Hybrid-body button:hover{
+      background-color: rgb(217, 114, 114);
+    }
+
+    .LSTM-body{
+        background-color: #262c3d;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 92vh;
+      }
+    
+      .LSTM-body button{
+        margin: 5px 5px;
+        height: 2rem;
+        width: 4rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        background-color: rgb(240, 151, 151);
+      }
+      
+.LSTM-body button:hover{
+  background-color: rgb(217, 114, 114);
+}
+
+.Arima-body{
+  background-color: #262c3d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.Prophet-body{
+  background-color: #262c3d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.Prophet-body img{
+  width: 50rem;
+}
+
+.Ann-body{
+  background-color: #262c3d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.Ann-body img{
+  width: 50rem;
+}
+
+.ETS-body{
+  background-color: #262c3d;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.ETS-body img{
+  width: 50rem;
+}

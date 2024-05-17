@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 8rem;
+    background-color: black;
+    color: white;
+    z-index: 1;
+}
+footer p{
+    font-size: 1.2rem;
+}
+
+footer span{
+    color: rgb(235, 111, 111);
+    cursor: pointer;
+}
